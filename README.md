@@ -8,7 +8,7 @@ Pretty Standard:
 * Clone the repo: `git clone https://github.com/adamisntdead/Menubar-Boilerplate`
 * Go into the folder: `cd Menubar-Boilerplate`
 * Install the NPM Modules: `yarn` (or `npm install` if you don't swing that way)
-* Go! `yarn start` (`npm start`)
+* Go! `yarn start` (`npm start`) 🎉
 
 ## Credits
 
